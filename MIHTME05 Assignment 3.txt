@@ -1,0 +1,10 @@
+WeChat: cstutorcs
+QQ: 749389476
+Email: tutorcs@163.com
+MIHTME05 Assignment 3
+
+Following this link to perform association rule mining for the dataset "Online_Retail.xlsx"
+https://www.datacamp.com/tutorial/market-basket-analysis-r
+Write your name and ID in the remark of the program, and capture the screens to show the steps
+and the results.
+
